@@ -20,7 +20,7 @@ export default function Home() {
           Through this work we have come to value:
         </p>
         <p>
-          <span style= "font-size: 120% "> Indivuals and interactions </span> over processes and tools
+          <span class="pLarge"> Indivuals and interactions </span> over processes and tools
           Working software over complrehensive documentation
           Customer collaboration over contract negotiantion
           Responding to change over following a plan
