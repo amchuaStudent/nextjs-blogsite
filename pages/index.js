@@ -24,7 +24,7 @@ export default function Home() {
          <li> 8. Doing A Little Extra </li>
          <li> 9. Being Prepared </li>
          <li> 10. Having A Strong Work Ethic </li>
-       </uL>
+       </ul>
         
 
         
