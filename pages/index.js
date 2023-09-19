@@ -11,20 +11,26 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>1. Introduction:</p>
         <p>
-         10 Things That Require Zero Talent
-       </p>
-       <ul>
-         <li> 1. Being On Time </li>
-         <li> 2. Making An Effort </li>
-         <li> 3. Being High Energy </li>
-         <li> 4. Having A Positive Attitude</li>
-         <li> 5. Being Passionate</li>
-         <li> 6. Using Good Body Language </li>
-         <li> 7. Being Coachable </li>
-         <li> 8. Doing A Little Extra </li>
-         <li> 9. Being Prepared </li>
-         <li> 10. Having A Strong Work Ethic </li>
-       </ul>
+         Manifesto for Agile Software Development
+        </p>
+    
+        <p>
+          We are uncovering better ways of developing 
+          by doing it and helping others do it.
+          Through this work we have come to value:
+        </p>
+        <p>
+          Indivuals and interactions over processes and tools
+          Working software over complrehensive documentation
+          Customer collaboration over contract negotiantion
+          Responding to change over following a plan
+        </p>
+        <p>
+          That is, while there is value in the items on
+          the right, we value the items on the left more.
+
+        </p>
+      
         
 
         
